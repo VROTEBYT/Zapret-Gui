@@ -7,9 +7,11 @@ Zapret GUI — Windows-приложение для удобного управл
 🖥️ Интерфейс программы
 
 Главное окно
+
 <img width="563" height="955" alt="image" src="https://github.com/user-attachments/assets/4313ddea-5abe-4985-a29a-07905958ced7" />
 
 Настройки
+
 <img width="609" height="683" alt="image" src="https://github.com/user-attachments/assets/7cd936d3-43d0-4866-8908-a5b80d309048" />
 
 ✨ Возможности
